@@ -1,0 +1,22 @@
+div {
+ text-align: center;
+ overflow: hidden;
+ border: 10px solid rgb(18, 100, 18);
+ width: 700px;
+ background: rgb(18, 100, 18);
+
+
+}
+h1 {font-family: Impact;
+    font-size: 50pt;
+    margin: 10px;
+    text-decoration: underline overline;
+    color: rgb(255, 255, 255);
+
+
+
+
+}
+ h2 {color: rgb(255, 255, 255);} 
+ h3 {color: rgb(255, 255, 255);}  
+ p {color: rgb(255, 255, 255);} 
